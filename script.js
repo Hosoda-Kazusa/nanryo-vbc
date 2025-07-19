@@ -12,6 +12,38 @@ document.addEventListener("DOMContentLoaded", () => {
 const videos = [
     {
         year: "2025",
+        tournament: "令和7年度 東三河総合体育大会",
+        matchNo: "A4-2",
+        date: "2025/7/19",
+        opponent: "田原市立福江中学校",
+        url: "https://youtu.be/T83EmBruEFg"
+    },
+    {
+        year: "2025",
+        tournament: "令和7年度 東三河総合体育大会",
+        matchNo: "A4-1",
+        date: "2025/7/19",
+        opponent: "田原市立福江中学校",
+        url: "https://youtu.be/q5jaUcLpf1w"
+    },
+    {
+        year: "2025",
+        tournament: "令和7年度 東三河総合体育大会",
+        matchNo: "A1-2",
+        date: "2025/7/19",
+        opponent: "新城市立千郷中学校",
+        url: "https://youtu.be/LJz6ZET-tJ0"
+    },
+    {
+        year: "2025",
+        tournament: "令和7年度 東三河総合体育大会",
+        matchNo: "A1-1",
+        date: "2025/7/19",
+        opponent: "新城市立千郷中学校",
+        url: "https://youtu.be/A8CUBZ6XsYs"
+    },
+    {
+        year: "2025",
         tournament: "令和7年度 市内総合体育大会",
         matchNo: "B5-2",
         date: "2025/6/28",
