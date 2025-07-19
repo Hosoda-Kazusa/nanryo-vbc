@@ -40,6 +40,7 @@ header {
   border: 4px solid red;
 }
 .swiper-pagination {
+  position: relative;
   bottom: 5px !important;
   z-index: 10;
 }
